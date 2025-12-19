@@ -88,7 +88,7 @@ sgu25_ktpm/
     │   ├── UseCase.xlsx
     │   ├── Test_Plan_Template.dotx
     │   ├── Phan_Tich_Quy_Trinh_Nghiep_Vu.docx
-    │   └── DeTai_GiaiDoan1_LeHongPhat_3122411145.docx
+    │   └── DeTai_GiaiDoan1_TraDucToan_3122411145.docx
     │
     ├── 📂 DeTai01/
     │   ├── DeTai01-Phan tich-TraDucToan-3122411217.docx
